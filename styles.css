@@ -6,13 +6,13 @@
 }
 
 @font-face {
-    font-family: 'Gladolia';
-    src: url('../../font/GladoliaDEMO-Regular.otf') format('otf');
+    font-family: 'Gladiola';
+    src: url('GladoliaDEMO-Regular.ttf') format('ttf');
 }
 
 html, body{
     background-color: #F8F4EC;
-    font-family: Gladolia;
+    font-family: 'Gladiola';
 }
 
 .heading{
