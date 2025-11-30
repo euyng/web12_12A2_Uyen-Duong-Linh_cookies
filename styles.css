@@ -20,7 +20,7 @@
 
 @font-face {
     font-family: 'Gladolia' ;
-    src: url('../css/font/GladoliaDEMO-Regular.ttf') format('ttf');
+    src: url('../font/GladoliaDEMO-Regular.ttf') format('ttf');
 }
 html, body{
     background-color: #F8F4EC;
