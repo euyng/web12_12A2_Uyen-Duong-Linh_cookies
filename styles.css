@@ -6,8 +6,8 @@
 }
 
 @font-face {
-    font-family: Gladolia;
-    src: url(../font/GladoliaDEMO-Regular.otf);
+    font-family: 'Gladolia';
+    src: url('../font/GladoliaDEMO-Regular.otf');
 }
 
 html, body{
