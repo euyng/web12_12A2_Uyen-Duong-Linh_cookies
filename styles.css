@@ -7,7 +7,7 @@
 
 @font-face {
     font-family: 'Gladolia';
-    src: url('../font/GladoliaDEMO-Regular.otf');
+    src: url('../font/GladoliaDEMO-Regular.otf') format('otf');
 }
 
 html, body{
