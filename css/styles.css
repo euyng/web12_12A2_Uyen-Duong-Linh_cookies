@@ -5,14 +5,26 @@
     box-sizing: border-box;
 }
 
-@font-face {
-    font-family: 'Gladiola';
-    src: url(GladoliaDEMO-Regular.ttf) format('ttf');
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
+.noto-sans-osage-regular {
+  font-family: "Noto Sans Osage", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Gladolia' ;
+    src: url('../css/font/GladoliaDEMO-Regular.ttf') format('ttf');
+}
 html, body{
     background-color: #F8F4EC;
-    font-family: 'Gladiola';
+    font-family: 'Gladolia', "Pacifico", "Noto Sans Osage";
 }
 
 .heading{
