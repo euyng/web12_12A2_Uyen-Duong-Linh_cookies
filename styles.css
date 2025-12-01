@@ -17,14 +17,9 @@
   font-style: normal;
 }
 
-
-@font-face {
-    font-family: 'Gladolia' ;
-    src: url('../font/GladoliaDEMO-Regular.ttf') format('ttf');
-}
 html, body{
     background-color: #F8F4EC;
-    font-family: 'Gladolia', "Pacifico", "Noto Sans Osage";
+    font-family: "Pacifico", "Noto Sans Osage";
 }
 
 .heading{
