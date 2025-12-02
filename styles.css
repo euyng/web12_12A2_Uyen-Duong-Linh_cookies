@@ -291,10 +291,28 @@ header nav > ul a:hover{
     width: 100%;
 }
 
-/*CONTACTS*/
-.contact{
+/*COUNTDOWN*/
+.release{
     background-color: #43334C;
 }
+.recipe_countdown{
+    display: flex;
+    color: #F8F4EC;
+    font-size: 2rem;
+    padding-top: 30px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding-bottom: 90px;    
+}
+.recipe_countdown div{
+    padding-left: 4rem;
+    margin: 0 1rem;
+}
+.recipe_countdown span{
+    color: #fecfdf;
+}
+
+/*CONTACTS*/
 .contact_content{
     max-width: 800px;
     margin: 0 auto;
@@ -304,12 +322,12 @@ header nav > ul a:hover{
 }
 .contact_left .contact_item{
     display: flex;
-    color: #F8F4EC;
+    color: #47414B;
     margin-bottom: 5px;
     align-items: center;
 }
 .contact_left .contact_item p{
-    color: #F8F4EC;
+    color: #47414B;
     font-size: 1.2rem;
     margin: 0;
     margin-left: 20px;
